@@ -59,8 +59,3 @@ Today we're going to learn about [Trello](https://trello.com), its features and 
 -   [Inspiration](https://trello.com/inspiration) - Trello
 -   [Power-Ups](https://trello.com/power-ups) - Trello
 -   [Tour](https://trello.com/tour) - Trello
-
-## Other similar services
-
--   [ClickUp](https://clickup.com)
--   [Jira](https://jira.atlassian.com/)
