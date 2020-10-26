@@ -7,13 +7,12 @@ Today we're going to learn about [Trello](https://trello.com), its features and 
 > Trello is a web-based project management application originally made by Fog Creek Software in 2011, that was spun out to form the basis of a separate company in 2014 and later sold to Atlassian in January 2017. The company is based in New York City - [Wikipedia](https://en.m.wikipedia.org/wiki/Trello)
 
 - :books: Documentation
-
-*  [Applications](https://trello.com/platforms) - Trello
-*   [Best Practice](https://blog.trello.com/trello-board-best-practices) - Trello
-*   [Getting Started](https://trello.com/guide) - Trello
-*   [Inspiration](https://trello.com/inspiration) - Trello
-*   [Power-Ups](https://trello.com/power-ups) - Trello
-*   [Tour](https://trello.com/tour) - Trello
+    - [Applications](https://trello.com/platforms) - Trello
+    - [Best Practice](https://blog.trello.com/trello-board-best-practices) - Trello
+    - [Getting Started](https://trello.com/guide) - Trello
+    - [Inspiration](https://trello.com/inspiration) - Trello
+    - [Power-Ups](https://trello.com/power-ups) - Trello
+    - [Tour](https://trello.com/tour) - Trello
 
 ## Execises
 
