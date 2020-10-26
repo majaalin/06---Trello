@@ -1,6 +1,6 @@
-# 06 - Trello
-
 <img src="https://media.giphy.com/media/7WuIJlmdvBanml4P6t/giphy.gif" width="100%">
+
+# 06 - Trello
 
 Today we're going to learn about [Trello](https://trello.com), its features and workflows!
 
