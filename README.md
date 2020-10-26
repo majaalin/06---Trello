@@ -16,7 +16,7 @@ Trello is a web-based project management application originally made by Fog Cree
 
 1. First, if you haven't created an account already [you should do that now](https://trello.com/signup).
 
-2. [Create a new Trello board](https://trello.com/guide/board_basics.html) and make a plan for your studies for the coming week.
+2. Imagine you're going to build a simple landing page. [Create a new Trello board](https://trello.com/guide/board_basics.html) and name it 'Landing page'.
 
 3. [Create three new lists](http://help.trello.com/article/744-adding-lists-to-a-board) which are called `DO`, `DOING` and `DONE`.
 
@@ -24,7 +24,7 @@ Trello is a web-based project management application originally made by Fog Cree
     - `DOING` - In this list we keep the cards which we're working on right now.
     - `DONE` - In this list we keep the completed cards.
 
-4. Imagine you're going to build a simple landing page. Divide your project into tasks and [create a card](http://help.trello.com/article/729-adding-cards) for each task.
+4. Divide your project into tasks and [create a card](http://help.trello.com/article/729-adding-cards) for each task.
 
     > Think of the structure of the cards:
 
